@@ -1,2 +1,2 @@
 # hello-world
-tutorial respository
+this is the master repository for hello world
